@@ -12,7 +12,7 @@ body {
 
 header {
     padding: 20px 0;
-    background-color: #CEF299;
+    background-color: #F2AA52;
     border-radius: 20px 20px 0 0;
 }
 
@@ -37,7 +37,7 @@ nav {
 
 nav a {
     display: inline-block;
-    background-color: #CEF299;
+    background-color: #F2AA52;
     height: 50px;
     width: 175px;
     font-size: 1.5em;
@@ -51,11 +51,11 @@ nav a {
 
 nav a:hover {
     background-color: #4C5973;
-    color: #CEF299;
+    color: #F2AA52;
 }
 
 main {
-    background-color: #CEF299;
+    background-color: #F2AA52;
     padding: 20px;
     margin: 0 20px 20px 20px;
 
@@ -77,7 +77,7 @@ main img {
 }
 
 footer {
-    background-color: #CEF299;
+    background-color: #F2AA52;
     padding: 60px 0;
     color: #F26D6D;
     font-size: 1.5em;
@@ -87,7 +87,7 @@ footer {
 
 .active {
     background-color: #4C5973;
-    color: #CEF299;
+    color: #F2AA52;
 }
 
 .pro_head {
